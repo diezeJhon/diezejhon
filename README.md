@@ -1,5 +1,1 @@
-Here are some ideas to get you started:
-- 🔭 my portofolio : https://kanhub.net/
-- 🌱 I’m currently learning Data Science and AI 
-- 👯 I’m looking to collaborate on Kaggle competitions and open source projects 
-- 📫 How to reach me: https://x.com/diezejhon
+https://linktr.ee/diezejhon
